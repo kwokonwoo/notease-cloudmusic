@@ -1,4 +1,4 @@
-# spotif
+# notease-cloudmusic
 
 ## Project setup
 ```
